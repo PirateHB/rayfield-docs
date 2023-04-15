@@ -49,7 +49,7 @@ local Section = Tab:CreateSection("Section Example")
 ### Updating a Section
 
 ```lua
-Section:Set("Section Example")
+Section:Set("Section Example") -- Sections are just dividers, Put elements above or below this line
 ```
 
 ## Destroying the Interface
